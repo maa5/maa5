@@ -16,7 +16,7 @@
 
 <p align="left">
 	<img height="180" src="https://github-readme-stats.vercel.app/api?username=maa5&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Github Stats"/>
-	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maa5&hide=php&layout=compact&langs_count=7&theme=dark" alt="Github Top Languages" />
+	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maa5&layout=compact&langs_count=7&theme=dark" alt="Github Top Languages" />
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&borderColor=%23000000&qColor=%23ffffff)
