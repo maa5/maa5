@@ -23,7 +23,7 @@ const maa5 = {
 		    css: ['Bootstrap', 'Tailwind CSS', 'Pure CSS']
 		},
 		backEnd: {
-			php: ['Laravel', 'Inertia', 'CodeIgniter','WordPress'],
+			php: ['Laravel', 'CodeIgniter', 'WordPress'],
 			python: ['FastApi'],
 			c#: ['.NET']
 		},
