@@ -8,9 +8,33 @@
 
 <p>I'm Mohamed. I'm a Full Stack Web Developer.</p>
 
-👯 I’m looking to collaborate on web projects (Nodejs, WordPress...).
+👯 I’m looking to collaborate on web projects.
 
 📫 How to reach me: azizm147@gmail.com
+
+````
+const maa5 = {
+	code: ['Javascript', 'PHP', 'Python', 'C#'],
+	approaches: ['MVC', 'TDD', 'Agile', 'Waterfall', 'Hexagonal Architecture'],
+	standards: ['HTML5', 'CSS3'],
+	tech: {
+		frontEnd: {
+		    js: ['Bootstrap', 'jQuery', 'KendoUI'],
+		    css: ['Bootstrap', 'Tailwind CSS', 'Pure CSS']
+		},
+		backEnd: {
+			php: ['Laravel', 'Inertia', 'CodeIgniter','WordPress'],
+			python: ['FastApi'],
+			c#: ['.NET']
+		},
+		template_engines: ['Blade']
+	},
+	devOps: ['Docker'],
+	databases: ['PostgreSQL', 'MySQL','MariaDB', 'Microsoft SQL Server', 'MongoDB'],
+	misc: ['Git', 'CI/CD'],
+	testing:['Unit Test','End-To-End']
+};
+````
 
 🏆 Github Profile Stats
 
@@ -18,7 +42,5 @@
 	<img height="180" src="https://github-readme-stats.vercel.app/api?username=maa5&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Github Stats"/>
 	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maa5&layout=compact&langs_count=7&theme=dark" alt="Github Top Languages" />
 </p>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&borderColor=%23000000&qColor=%23ffffff)
 
 ![](https://komarev.com/ghpvc/?username=maa5&label=Views)
