@@ -15,7 +15,7 @@
 ````
 const maa5 = {
 	code: ['Javascript', 'PHP', 'Python', 'C#'],
-	approaches: ['MVC', 'TDD', 'Agile', 'Waterfall', 'Hexagonal Architecture'],
+	approaches: ['MVC', 'Agile', 'Waterfall', 'Hexagonal Architecture'],
 	standards: ['HTML5', 'CSS3'],
 	tech: {
 		frontEnd: {
