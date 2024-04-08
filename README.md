@@ -40,7 +40,7 @@ const maa5 = {
 
 <p align="left">
 	<img height="180" src="https://github-readme-stats.vercel.app/api?username=maa5&count_private=true&include_all_commits=true&show_icons=true&theme=light&border_color=d8dee4" alt="Github Stats"/>
-	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maa5&hide=php&layout=compact&langs_count=7&theme=light&border_color=d8dee4" alt="Github Top Languages" />
+	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maa5&layout=compact&langs_count=7&theme=light&border_color=d8dee4" alt="Github Top Languages" />
 </p>
 
 <!--<p align="left" width="100%"><img width="100%" src="https://github.com/maa5/maa5/blob/master/silence-is-golden-banner-dalek.jpg" alt="Silence is golden"/>-->
