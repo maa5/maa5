@@ -39,8 +39,15 @@ const maa5 = {
 🏆 Github Profile Stats
 
 <p align="left">
-	<img height="180" src="https://github-readme-stats.vercel.app/api?username=maa5&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Github Stats"/>
-	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maa5&layout=compact&langs_count=7&theme=dark" alt="Github Top Languages" />
+	<img height="180" src="https://github-readme-stats.vercel.app/api?username=maa5&count_private=true&include_all_commits=true&show_icons=true&theme=light&border_color=d8dee4" alt="Github Stats"/>
+	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maa5&hide=php&layout=compact&langs_count=7&theme=light&border_color=d8dee4" alt="Github Top Languages" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=maa5&label=Views)
+<!--<p align="left" width="100%"><img width="100%" src="https://github.com/maa5/maa5/blob/master/silence-is-golden-banner-dalek.jpg" alt="Silence is golden"/>-->
+
+<!--![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&borderColor=%23000000&qColor=%23ffffff)-->
+
+<!--![](https://komarev.com/ghpvc/?username=maa5&label=Views)-->
+
+<!--<h4>🏆 Github Profile Trophy</h4>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=maa5&column=7&count_private=true&include_all_commits=true&theme=onedark" alt="Github Trophies"/></p>-->
